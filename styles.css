@@ -1,0 +1,22 @@
+.style {
+    width: 310px;
+    height: 100px;
+    background-color: skyblue;
+}
+
+.style2 {
+    width: 205px;
+    height: 100px;
+    background-color: silver;
+}
+
+.style3 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.style4 {
+    width: 410px;
+    height: 100px;
+    background-color: thistle;
+}
